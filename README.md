@@ -1,7 +1,7 @@
 # flatted (Go)
 
 A super light and fast circular JSON parser.
-
+    
 ## Usage
 
 ```go
